@@ -2,7 +2,7 @@
 
 This is a fork of [smolmusk/solana-clamm-core](https://github.com/smolmusk/solana-clamm-core).
 
-Forked on 12/24/2025.
+Forked on 12/25/2025.
 
 ## Updates
 
@@ -11,4 +11,4 @@ Forked on 12/24/2025.
 - Enhanced functionality
 
 ---
-*Last updated: 2025-12-24T19:35:15.113Z*
+*Last updated: 2025-12-25T20:28:19.493Z*
