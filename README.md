@@ -12,3 +12,10 @@ Forked on 12/25/2025.
 
 ---
 *Last updated: 2025-12-25T20:28:19.493Z*
+
+
+---
+## Fork Updates
+
+*Forked from [smolmusk/solana-clamm-core](https://github.com/smolmusk/solana-clamm-core)*
+*Last updated: 2025-12-25T20:31:08.160Z*
